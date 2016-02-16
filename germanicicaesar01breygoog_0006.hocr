@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./germanicicaesar01breygoog_0006.png"; bbox 0 0 3252 5204; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 69 896 1302 1407">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 69 786 1302 1466">
+     <span class='ocr_line' id='line_1_1' title="bbox 195 896 1302 1080; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 195 898 756 1080; x_wconf 69' lang='lat' dir='ltr'>GERMANICI</span> <span class='ocrx_word' id='word_1_2' title='bbox 818 896 1302 1075; x_wconf 66' lang='lat' dir='ltr'><strong>CAESAffls</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 69 1222 933 1407; baseline -0.004 2"><span class='ocrx_word' id='word_1_3' title='bbox 69 1284 73 1291; x_wconf 87' lang='grc'><em>·</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 439 1242 441 1249; x_wconf 65' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 558 1222 933 1407; x_wconf 73' lang='lat' dir='ltr'><strong>&#39;ARATEA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 499 1722 996 1812">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 499 1722 996 1812">
+     <span class='ocr_line' id='line_1_3' title="bbox 499 1722 996 1812; baseline -0.008 0"><span class='ocrx_word' id='word_1_6' title='bbox 499 1722 622 1812; x_wconf 78' lang='lat' dir='ltr'>CVM</span> <span class='ocrx_word' id='word_1_7' title='bbox 673 1733 996 1810; x_wconf 83' lang='lat' dir='ltr'>SCHOLIIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1630 5204">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1630 5204">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1630 5204; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1630 5204; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
